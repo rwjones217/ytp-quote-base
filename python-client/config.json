@@ -1,0 +1,7 @@
+{
+    "user":"rjones",
+    "pass":"password",
+    "port":3306,
+    "ipaddr":"127.0.0.1",
+    "database":"quotes"
+}
